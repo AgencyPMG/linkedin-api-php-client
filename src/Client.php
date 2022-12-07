@@ -81,7 +81,7 @@ class Client
      * Default authorization URL
      * string
      */
-    const OAUTH2_API_ROOT = 'https://www.linkedin.com/oauth/rest/';
+    const OAUTH2_API_ROOT = 'https://www.linkedin.com/oauth/v2/';
 
     /**
      * Default API root URL
